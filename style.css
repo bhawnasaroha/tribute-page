@@ -1,0 +1,39 @@
+body {
+  margin: 5%;
+  margin-bottom: 0;
+
+  color: #333;
+
+  font-size: 14px;
+}
+
+.title, .list-head {
+  color: rgb(0, 64, 255);
+}
+
+.heading {
+  font-family: sofia, helvetica, monospace;
+}
+
+img {
+  filter: grayscale(100%);
+}
+
+h1 {
+  font-size: 3.3em;
+}
+
+.caption {
+  color: #636c72;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+a:hover {
+  text-decoration: none;
+
+  color: hsl(320, 100%, 50%);
+}
